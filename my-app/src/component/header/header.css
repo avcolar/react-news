@@ -1,0 +1,10 @@
+.header-item {
+    list-style-type: none;
+    font-size: 2rem;
+    color: white;
+    padding: 1em;
+}
+
+.header-container li{
+    display: inline-block;
+}
